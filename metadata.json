@@ -1,0 +1,10 @@
+{
+  "name": "ANISH AI - Personal AI Agent",
+  "description": "Your Intelligence. Your Commands. Your Control. Next-Generation JARVIS Personal AI Agent with voice control, Hindi/English bilingual support, and PC automation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
